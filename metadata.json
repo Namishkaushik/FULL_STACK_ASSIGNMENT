@@ -1,0 +1,8 @@
+{
+  "name": "UniTrack — Student Attendance Management System",
+  "description": "University student attendance management system with Admin, Faculty, and Student portals, MongoDB/Mongoose backend, audit logging, and CLI tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
